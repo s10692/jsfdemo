@@ -8,5 +8,36 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse_3.8.0.Beta1-v20140331-2302-B15/org.hibernate.eclipse.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse_3.7.1.Final-v20140303-0022-B124/org.hibernate.eclipse.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.mapper_3.7.1.Final-v20140303-0022-B124/org.hibernate.eclipse.mapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/bsh-core-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/concurrent-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/connector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/jaas.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/javassist.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/jboss-cache.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/jboss-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/jboss-jmx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/jboss-system.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/jgroups-2.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Programowanie JAva/eclipse/plugins/org.hibernate.eclipse.libs_3.8.0.Beta1-v20140331-2302-B15/lib/hibernate/swarmcache-1.0rc2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
